@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\quanlyxe\quanlyxe\bin\Debug\quanlyxe.exe.config
+C:\Users\Administrator\source\repos\quanlyxe\quanlyxe\bin\Debug\quanlyxe.exe
+C:\Users\Administrator\source\repos\quanlyxe\quanlyxe\bin\Debug\quanlyxe.pdb
+C:\Users\Administrator\source\repos\quanlyxe\quanlyxe\obj\Debug\quanlyxe.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\quanlyxe\quanlyxe\obj\Debug\quanlyxe.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\quanlyxe\quanlyxe\obj\Debug\quanlyxe.exe
+C:\Users\Administrator\source\repos\quanlyxe\quanlyxe\obj\Debug\quanlyxe.pdb
