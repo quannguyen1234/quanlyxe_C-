@@ -11,14 +11,16 @@ namespace quanlyxe
         int sochongoi;
         public override void nhap()
         {
-            Xe xe = new Xe();
-            xe.nhap();
+         
+            base.nhap();
             Console.WriteLine("nhap so cho ngoi");
             this.sochongoi=int.Parse(Console.ReadLine());
             
         }
         public override void xuat()
         {
+            base.xuat();
+            Console.WriteLine("sochongoi{0}", sochongoi);
 
         }
     }

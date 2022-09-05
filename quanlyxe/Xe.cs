@@ -28,11 +28,12 @@ namespace quanlyxe
         }
         public virtual void xuat()
         {
-            Console.WriteLine("ngaydangkiem", this.ngaydangkiem);
+            Console.WriteLine("tenxe :{0}", this.tenxe);
+            Console.WriteLine("ngaydangkiem :{0}", this.ngaydangkiem);
         }
-        public void cc()
+        public string get_tenxe()
         {
-
+            return this.tenxe;
         }
     }
     

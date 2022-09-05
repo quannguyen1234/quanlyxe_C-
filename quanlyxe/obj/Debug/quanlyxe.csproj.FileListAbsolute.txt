@@ -5,3 +5,10 @@ C:\Users\Administrator\source\repos\quanlyxe\quanlyxe\obj\Debug\quanlyxe.csprojA
 C:\Users\Administrator\source\repos\quanlyxe\quanlyxe\obj\Debug\quanlyxe.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\quanlyxe\quanlyxe\obj\Debug\quanlyxe.exe
 C:\Users\Administrator\source\repos\quanlyxe\quanlyxe\obj\Debug\quanlyxe.pdb
+C:\Users\Administrator\Desktop\quanlyxe\quanlyxe_C-\quanlyxe\bin\Debug\quanlyxe.exe.config
+C:\Users\Administrator\Desktop\quanlyxe\quanlyxe_C-\quanlyxe\bin\Debug\quanlyxe.exe
+C:\Users\Administrator\Desktop\quanlyxe\quanlyxe_C-\quanlyxe\bin\Debug\quanlyxe.pdb
+C:\Users\Administrator\Desktop\quanlyxe\quanlyxe_C-\quanlyxe\obj\Debug\quanlyxe.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\quanlyxe\quanlyxe_C-\quanlyxe\obj\Debug\quanlyxe.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\quanlyxe\quanlyxe_C-\quanlyxe\obj\Debug\quanlyxe.exe
+C:\Users\Administrator\Desktop\quanlyxe\quanlyxe_C-\quanlyxe\obj\Debug\quanlyxe.pdb
